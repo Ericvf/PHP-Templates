@@ -1,0 +1,29 @@
+<?php
+
+	$nl_utf8 = array ();
+
+### Site
+	$nl_utf8["site_title"]					= "PHP templates";
+	$nl_utf8["site_logoff"]					= "log uit";
+
+### Menu
+	$nl_utf8["menu_home"]					= "home";
+	$nl_utf8["menu_news"]					= "nieuws";
+	$nl_utf8["menu_about"]					= "over ons";
+
+### News 
+	$nl_utf8["ctrl_news_title"]				= "Nieuws";
+	
+### Userlogin control
+	$nl_utf8["ctrl_login"]				= "Inloggen";
+	$nl_utf8["ctrl_login_user"]			= "Gebruikersnaam";
+	$nl_utf8["ctrl_login_pass"]			= "Wachtwoord";
+	$nl_utf8["ctrl_login_msg01"]		= "Voer uw login naam en wachtwoord in de velden hieronder in en klik op de knop `Verder` om door te gaan";
+	$nl_utf8["ctrl_login_err01"]		= "Gebruikersnaam en wachtwoord zijn niet gelijk";
+	
+### Form main
+	$nl_utf8["form_discard"] 				= "Wissen";
+	$nl_utf8["form_save"] 					= "Opslaan";
+	$nl_utf8["form_submit"] 				= "Verder";
+
+?>
